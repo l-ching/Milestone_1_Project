@@ -1,6 +1,6 @@
 # Understanding the Relationship Between Global Warming and Heat-Related Mortality
 
-### Contributors:
+### Authors:
 - Lindsey Ching (lching)
 - Amanda Davis (azdavis)
 - Shreya Uppal (shreyau)
